@@ -23,15 +23,32 @@ $('#exportBtn').addEventListener('click',()=>{let blob=new Blob([JSON.stringify(
 (async()=>{try{let r=await fetch('data.json',{cache:'no-store'});if(r.ok){let d=await r.json();if(Array.isArray(d.weeks)){state=d;publishedSnapshot=JSON.stringify(d);dirty=false}}}catch{}render()})();
 
 // GitHub Pages is static: this save action uses a user-supplied fine-grained token,
-// held only in the password field (never embedded in source, localStorage, or data.json).
+// stored in this browser only if the user explicitly opts in; never embedded in source or data.json.
 const GITHUB_OWNER='rjbrittain', GITHUB_REPO='sfhs-football-pool', GITHUB_FILE='data.json';
+const TOKEN_STORAGE_KEY='sfhs-football-pool:github-token';
+const tokenInput=document.querySelector('#githubToken');
+const rememberToken=document.querySelector('#rememberGitHubToken');
+try { const savedToken=localStorage.getItem(TOKEN_STORAGE_KEY); if(savedToken){tokenInput.value=savedToken;rememberToken.checked=true;} } catch {}
+rememberToken.addEventListener('change',()=>{
+  try { if(rememberToken.checked && tokenInput.value.trim()) localStorage.setItem(TOKEN_STORAGE_KEY,tokenInput.value.trim()); else localStorage.removeItem(TOKEN_STORAGE_KEY); }
+  catch {rememberToken.checked=false;alert('Browser storage is unavailable. The token cannot be remembered.');}
+});
+tokenInput.addEventListener('change',()=>{
+  if(rememberToken.checked){try {if(tokenInput.value.trim())localStorage.setItem(TOKEN_STORAGE_KEY,tokenInput.value.trim());else localStorage.removeItem(TOKEN_STORAGE_KEY);}catch{}}
+});
+document.querySelector('#forgetGitHubToken').addEventListener('click',()=>{
+  try {localStorage.removeItem(TOKEN_STORAGE_KEY);}catch{}
+  tokenInput.value='';rememberToken.checked=false;
+  document.querySelector('#saveStatus').textContent='Stored token removed from this browser';
+});
+
 function githubHeaders(token){return {'Accept':'application/vnd.github+json','Authorization':'Bearer '+token,'X-GitHub-Api-Version':'2022-11-28'};}
 function toBase64Utf8(text){const bytes=new TextEncoder().encode(text);let binary='';for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.subarray(i,i+8192));return btoa(binary);}
 function fromBase64Utf8(text){const binary=atob(text.replace(/\s/g,''));return new TextDecoder().decode(Uint8Array.from(binary,c=>c.charCodeAt(0)));}
 document.querySelector('#saveGitHubBtn').addEventListener('click',async()=>{
   const button=document.querySelector('#saveGitHubBtn'),status=document.querySelector('#saveStatus');
   const token=document.querySelector('#githubToken').value.trim();
-  if(!token){alert('Enter a fine-grained GitHub personal access token with Contents: Read and write permission for this repository. The token is not stored.');return;}
+  if(!token){alert('Enter a fine-grained GitHub personal access token with Contents: Read and write permission for this repository. Enter your token to save.');return;}
   if(!dirty){status.textContent='No unsaved changes';return;}
   button.disabled=true;status.textContent='Checking repository…';
   try{
@@ -46,7 +63,7 @@ document.querySelector('#saveGitHubBtn').addEventListener('click',async()=>{
     const saved=await fetch(url,{method:'PUT',headers:{...githubHeaders(token),'Content-Type':'application/json'},body:JSON.stringify(body)});
     if(!saved.ok){const detail=await saved.json().catch(()=>({}));throw Error(`GitHub save failed (${saved.status}): ${detail.message||'Check token permissions or branch protection.'}`);}
     publishedSnapshot=JSON.stringify(state);dirty=false;status.textContent='Saved to GitHub · Pages may take a minute to update';
-    document.querySelector('#githubToken').value='';
+    if(rememberToken.checked){try{localStorage.setItem(TOKEN_STORAGE_KEY,token);}catch{}}else{document.querySelector('#githubToken').value='';}
   }catch(error){status.textContent='Not saved';alert(error.message);}
   finally{button.disabled=false;}
 });
