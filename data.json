@@ -1,0 +1,307 @@
+{
+  "season": 2026,
+  "weeks": [
+    {
+      "number": 1,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": {
+        "wins": 15,
+        "losses": 5
+      }
+    },
+    {
+      "number": 2,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": {
+        "wins": 14,
+        "losses": 6
+      }
+    },
+    {
+      "number": 3,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": {
+        "wins": 10,
+        "losses": 10
+      }
+    },
+    {
+      "number": 4,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": null
+    },
+    {
+      "number": 5,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": null
+    },
+    {
+      "number": 6,
+      "locked": true,
+      "tiebreaker": null,
+      "games": [],
+      "historical": {
+        "wins": 9,
+        "losses": 11
+      }
+    },
+    {
+      "number": 7,
+      "locked": true,
+      "tiebreaker": 44,
+      "games": [
+        {
+          "id": "c9572105-dee9-449c-8565-9bcae0ccded5",
+          "away": "Tennessee",
+          "home": "South Carolina",
+          "pick": "Tennessee",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "ae31e805-1bd9-4bd5-8ea1-61ec8b5bfd2e",
+          "away": "Ole Miss",
+          "home": "Texas",
+          "pick": "Texas",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "9928710c-926f-40e4-9b01-6844f16d26a1",
+          "away": "Houston",
+          "home": "Utah",
+          "pick": "Utah",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "6de9d54b-9925-4a06-8c1d-f3a8a1518d32",
+          "away": "Kansas State",
+          "home": "Arizona State",
+          "pick": "Kansas State",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "977a6e0f-293b-4333-ab21-8ba0b2556615",
+          "away": "Virginia Tech",
+          "home": "Clemson",
+          "pick": "Virginia Tech",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "8bb2b5fd-7b9e-47ba-abdf-5a558c19a544",
+          "away": "North Texas",
+          "home": "Navy",
+          "pick": "North Texas",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "e360d5e4-1c0b-474a-899c-5df7582af7e7",
+          "away": "Western Michigan",
+          "home": "Toledo",
+          "pick": "Toledo",
+          "league": "NCAA",
+          "date": "2026-10-24",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "5476674f-d60d-4388-8a78-72849b7f14a0",
+          "away": "Pittsburgh",
+          "home": "New Orleans",
+          "pick": "Pittsburgh",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "e19c4388-8a8f-4792-95ee-94bda0b4607a",
+          "away": "Indianapolis",
+          "home": "Minnesota",
+          "pick": "Minnesota",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "dfeb8ea2-62c2-4e79-97ce-960f01c577a0",
+          "away": "Miami",
+          "home": "NY Jets",
+          "pick": "NY Jets",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "526541cd-52f0-4241-a6d5-22643284cde8",
+          "away": "Cincinnati",
+          "home": "Baltimore",
+          "pick": "Baltimore",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "d735f7d9-2538-4e4d-b7c2-8e36e73fdf44",
+          "away": "Cleveland",
+          "home": "Tennessee",
+          "pick": "Cleveland",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "b29e9764-4c15-4e3e-a2b1-c4f9ea299edf",
+          "away": "Tampa Bay",
+          "home": "Carolina",
+          "pick": "Carolina",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "411e0c2b-79f7-478b-90d1-cc5d76899b88",
+          "away": "San Francisco",
+          "home": "Atlanta",
+          "pick": "San Francisco",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "0158f2b3-ec8a-49dc-aff0-3441dc160619",
+          "away": "NY Giants",
+          "home": "Houston",
+          "pick": "Houston",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "413e5047-f751-4b1d-be0c-939fa09ca651",
+          "away": "Denver",
+          "home": "Arizona",
+          "pick": "Denver",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "2d30b7fd-5fc9-427a-9945-840a8113f975",
+          "away": "LA Rams",
+          "home": "Las Vegas",
+          "pick": "LA Rams",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "717862cb-c4df-47a3-9a99-355fffa26958",
+          "away": "Green Bay",
+          "home": "Detroit",
+          "pick": "Detroit",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "3a8e1a3a-ee29-4f4f-89ee-7c8fdc7c26bd",
+          "away": "Kansas City",
+          "home": "Seattle",
+          "pick": "Seattle",
+          "league": "NFL",
+          "date": "2026-10-25",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        },
+        {
+          "id": "2bc6f9db-b572-47bb-8226-7f4ffbc7c6d5",
+          "away": "Dallas",
+          "home": "Philadelphia",
+          "pick": "Dallas",
+          "league": "NFL",
+          "date": "2026-10-26",
+          "points": 1,
+          "awayScore": null,
+          "homeScore": null,
+          "market": {}
+        }
+      ],
+      "historical": null
+    }
+  ]
+}
