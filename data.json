@@ -14,8 +14,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -26,8 +26,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 24,
           "market": {}
         },
         {
@@ -38,8 +38,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 16,
           "market": {}
         },
         {
@@ -50,8 +50,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 38,
+          "homeScore": 36,
           "market": {}
         },
         {
@@ -62,8 +62,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 26,
           "market": {}
         },
         {
@@ -74,8 +74,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 38,
           "market": {}
         },
         {
@@ -86,8 +86,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 33,
           "market": {}
         },
         {
@@ -98,8 +98,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 31,
           "market": {}
         },
         {
@@ -110,8 +110,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 10,
           "market": {}
         },
         {
@@ -122,8 +122,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 41,
+          "homeScore": 23,
           "market": {}
         },
         {
@@ -134,8 +134,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -146,8 +146,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 59,
+          "homeScore": 37,
           "market": {}
         },
         {
@@ -158,8 +158,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 34,
           "market": {}
         },
         {
@@ -170,8 +170,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 36,
+          "homeScore": 31,
           "market": {}
         },
         {
@@ -182,8 +182,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 27,
           "market": {}
         },
         {
@@ -194,8 +194,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 22,
+          "homeScore": 39,
           "market": {}
         },
         {
@@ -206,8 +206,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 22,
+          "homeScore": 24,
           "market": {}
         },
         {
@@ -218,8 +218,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 14,
           "market": {}
         },
         {
@@ -230,8 +230,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 28,
           "market": {}
         },
         {
@@ -242,8 +242,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 31,
           "market": {}
         }
       ],
@@ -265,8 +265,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 41,
           "market": {}
         },
         {
@@ -277,8 +277,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 41,
+          "homeScore": 34,
           "market": {}
         },
         {
@@ -289,8 +289,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 44,
+          "homeScore": 39,
           "market": {}
         },
         {
@@ -301,8 +301,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 35,
+          "homeScore": 26,
           "market": {}
         },
         {
@@ -313,8 +313,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 32,
           "market": {}
         },
         {
@@ -325,8 +325,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 34,
+          "homeScore": 3,
           "market": {}
         },
         {
@@ -337,8 +337,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 9,
+          "homeScore": 3,
           "market": {}
         },
         {
@@ -349,8 +349,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -361,8 +361,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 3,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -373,8 +373,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -385,8 +385,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 19,
           "market": {}
         },
         {
@@ -397,8 +397,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -409,8 +409,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 6,
           "market": {}
         },
         {
@@ -421,8 +421,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -433,8 +433,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 14,
           "market": {}
         },
         {
@@ -445,8 +445,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 37,
           "market": {}
         },
         {
@@ -457,8 +457,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 7,
           "market": {}
         },
         {
@@ -469,8 +469,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 35,
           "market": {}
         },
         {
@@ -481,8 +481,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 33,
           "market": {}
         },
         {
@@ -493,8 +493,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 6,
+          "homeScore": 28,
           "market": {}
         }
       ],
@@ -510,242 +510,242 @@
       "games": [
         {
           "id": "4b7d98d6-d8c0-4fae-b271-dd35541ded6f",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Texas",
+          "home": "Tennessee",
           "pick": "Texas",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 17,
           "market": {}
         },
         {
           "id": "ae4f2238-e235-4814-94e8-b279af0814c5",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Ole Miss",
+          "home": "Florida",
           "pick": "Florida",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 28,
+          "homeScore": 52,
           "market": {}
         },
         {
           "id": "dd34109a-f7db-402a-a994-847e2bbde1a3",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Michigan",
+          "home": "Iowa",
           "pick": "Michigan",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 19,
+          "homeScore": 20,
           "market": {}
         },
         {
           "id": "3033a756-4a03-4475-bf15-ddad11283c9f",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Oregon",
+          "home": "USC",
           "pick": "Oregon",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 41,
+          "homeScore": 27,
           "market": {}
         },
         {
           "id": "f0223910-eb3a-4b14-bd69-77a1a1f64b33",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Georgia Tech",
+          "home": "Stanford",
           "pick": "Georgia Tech",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 34,
           "market": {}
         },
         {
           "id": "0cda8823-57f9-4bd5-96f4-74f60b0f2601",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "LA Chargers",
+          "home": "Buffalo",
           "pick": "Buffalo",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 16,
+          "homeScore": 24,
           "market": {}
         },
         {
           "id": "aaef6d7e-f198-4ebc-ab33-3b158d5892ed",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Carolina",
+          "home": "Cleveland",
           "pick": "Carolina",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 18,
+          "homeScore": 21,
           "market": {}
         },
         {
           "id": "122c7355-bf53-42ac-a614-be49684aa95b",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "NY Jets",
+          "home": "Detroit",
           "pick": "Detroit",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 31,
           "market": {}
         },
         {
           "id": "bfe52cb4-4236-48a6-8f13-0f05a55b0777",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Houston",
+          "home": "Indianapolis",
           "pick": "Houston",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 19,
           "market": {}
         },
         {
           "id": "a079463a-349f-4002-a726-c077d9bb9e82",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Kansas City",
+          "home": "Miami",
           "pick": "Kansas City",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 10,
           "market": {}
         },
         {
           "id": "2c7fc9f2-c242-4194-995f-12c535363f77",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Tennessee",
+          "home": "NY Giants",
           "pick": "NY Giants",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 7,
+          "homeScore": 12,
           "market": {}
         },
         {
           "id": "5abad81d-7b0e-42cb-b860-48079a61e4df",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Cincinnati",
+          "home": "Pittsburgh",
           "pick": "Cincinnati",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 30,
           "market": {}
         },
         {
           "id": "6e62fa51-bcb1-4b43-ab06-57e84ae2f9df",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Seattle",
+          "home": "Washington",
           "pick": "Seattle",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 33,
           "market": {}
         },
         {
           "id": "5a869bde-83f0-43fb-9992-9bec69dd3d4d",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "New England",
+          "home": "Jacksonville",
           "pick": "Jacksonville",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 6,
+          "homeScore": 35,
           "market": {}
         },
         {
           "id": "ec338048-2444-41af-ac6f-33fd1defb735",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Arizona",
+          "home": "San Francisco",
           "pick": "San Francisco",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 36,
           "market": {}
         },
         {
           "id": "e2416156-ca23-4135-b0a4-74548c545a39",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Minnesota",
+          "home": "Tampa Bay",
           "pick": "Minnesota",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 16,
           "market": {}
         },
         {
           "id": "f5ffc7bb-291c-40fc-8084-ccbdeee9af0c",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Baltimore",
+          "home": "Dallas",
           "pick": "Dallas",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 34,
+          "homeScore": 31,
           "market": {}
         },
         {
           "id": "4165e595-df36-484a-bc4b-322729ae529f",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Las Vegas",
+          "home": "New Orleans",
           "pick": "New Orleans",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 35,
+          "homeScore": 27,
           "market": {}
         },
         {
           "id": "e551a6aa-2c5d-4dc4-b987-e7db18e85f23",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "LA Rams",
+          "home": "Denver",
           "pick": "LA Rams",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 30,
           "market": {}
         },
         {
           "id": "43d0311b-54cb-465a-b7ab-e71c50cc5de5",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Philadelphia",
+          "home": "Chicago",
           "pick": "Philadelphia",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 7,
+          "homeScore": 27,
           "market": {}
         }
       ],
@@ -761,110 +761,110 @@
       "games": [
         {
           "id": "f31469a3-42f0-4d73-93cf-9d256b1dca80",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Alabama",
+          "home": "Mississippi State",
           "pick": "Alabama",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 56,
+          "homeScore": 23,
           "market": {}
         },
         {
           "id": "7d3061bb-fd4d-4188-88b4-fabc990de464",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Florida",
+          "home": "Missouri",
           "pick": "Florida",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 45,
           "market": {}
         },
         {
           "id": "1d286e60-b25e-4b1f-bba4-704a411f9b4c",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Navy",
+          "home": "Air Force",
           "pick": "Navy",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 9,
+          "homeScore": 14,
           "market": {}
         },
         {
           "id": "9864b155-9ebd-4622-82e7-ec8c1f398265",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Virginia",
+          "home": "Florida State",
           "pick": "Virginia",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 7,
+          "homeScore": 38,
           "market": {}
         },
         {
           "id": "af71494c-81a1-43de-97ca-7e79bee8aef8",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "San Jose State",
+          "home": "Hawaii",
           "pick": "San Jose State",
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 16,
           "market": {}
         },
         {
           "id": "32a191eb-e210-4d80-865b-ffbbeecc205d",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Indianapolis",
+          "home": "Washington",
           "pick": "Indianapolis",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 13,
           "market": {}
         },
         {
           "id": "f5f775ae-6da8-415b-8026-7fc9b9c8e6ee",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Arizona",
+          "home": "NY Giants",
           "pick": "NY Giants",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 36,
           "market": {}
         },
         {
           "id": "8cb52cff-3ea2-4230-9ac7-14fbdee07212",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "New England",
+          "home": "Buffalo",
           "pick": "Buffalo",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 29,
+          "homeScore": 26,
           "market": {}
         },
         {
           "id": "ad3a95bd-f042-491a-99bc-3b41147eff70",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "NY Jets",
+          "home": "Chicago",
           "pick": "Chicago",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 12,
+          "homeScore": 23,
           "market": {}
         },
         {
@@ -875,128 +875,128 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 34,
+          "homeScore": 30,
           "market": {}
         },
         {
           "id": "78369858-39f7-4087-92b9-d9d61cf9e43e",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "LA Rams",
+          "home": "Philadelphia",
           "pick": "LA Rams",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 20,
           "market": {}
         },
         {
           "id": "2867f7f3-16b2-4333-908a-bcef1f84f9e3",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Green Bay",
+          "home": "Tampa Bay",
           "pick": "Green Bay",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 14,
           "market": {}
         },
         {
           "id": "66e3a9d3-725d-4643-a28b-90b1fd6d232e",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Tennessee",
+          "home": "Baltimore",
           "pick": "Baltimore",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 18,
+          "homeScore": 24,
           "market": {}
         },
         {
           "id": "58775c71-5633-405e-bd27-9fecef95e4c4",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Jacksonville",
+          "home": "Cincinnati",
           "pick": "Jacksonville",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 22,
+          "homeScore": 17,
           "market": {}
         },
         {
           "id": "1f8bc794-f527-49ab-b93b-b8d1692d8469",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Miami",
+          "home": "Minnesota",
           "pick": "Minnesota",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 15,
           "market": {}
         },
         {
           "id": "5887828a-e8ab-4a9b-9e10-8d9f710a5157",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Kansas City",
+          "home": "Las Vegas",
           "pick": "Kansas City",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 27,
           "market": {}
         },
         {
           "id": "db60e14d-780f-49de-a292-9e7534edf980",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "LA Chargers",
+          "home": "Seattle",
           "pick": "Seattle",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 30,
           "market": {}
         },
         {
           "id": "1ca17891-b174-4c4d-bb9b-de475e2d72ba",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Denver",
+          "home": "San Francisco",
           "pick": "San Francisco",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 14,
+          "homeScore": 24,
           "market": {}
         },
         {
           "id": "2cd058ce-2b45-402b-b1e4-8c2a00be3c59",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Detroit",
+          "home": "Carolina",
           "pick": "Detroit",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 32,
           "market": {}
         },
         {
           "id": "eb5137fd-cc45-48b0-adf9-5df0fc403653",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Atlanta",
+          "home": "New Orleans",
           "pick": "Atlanta",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 45,
+          "homeScore": 24,
           "market": {}
         }
       ],
@@ -1018,8 +1018,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1030,8 +1030,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 35,
+          "homeScore": 16,
           "market": {}
         },
         {
@@ -1042,8 +1042,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 23,
           "market": {}
         },
         {
@@ -1054,8 +1054,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 21,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1066,8 +1066,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 19,
           "market": {}
         },
         {
@@ -1078,8 +1078,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 15,
           "market": {}
         },
         {
@@ -1090,8 +1090,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 19,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1102,8 +1102,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 12,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1114,8 +1114,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 7,
+          "homeScore": 31,
           "market": {}
         },
         {
@@ -1126,8 +1126,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 24,
           "market": {}
         },
         {
@@ -1138,8 +1138,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 45,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1150,8 +1150,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 13,
           "market": {}
         },
         {
@@ -1162,8 +1162,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 3,
           "market": {}
         },
         {
@@ -1174,8 +1174,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 27,
           "market": {}
         },
         {
@@ -1186,8 +1186,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 22,
+          "homeScore": 34,
           "market": {}
         },
         {
@@ -1198,8 +1198,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1210,8 +1210,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 45,
+          "homeScore": 21,
           "market": {}
         },
         {
@@ -1222,8 +1222,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 32,
+          "homeScore": 29,
           "market": {}
         },
         {
@@ -1234,8 +1234,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 23,
+          "homeScore": 30,
           "market": {}
         },
         {
@@ -1246,8 +1246,8 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 37,
+          "homeScore": 34,
           "market": {}
         }
       ],
@@ -1269,8 +1269,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 19,
+          "homeScore": 15,
           "market": {}
         },
         {
@@ -1281,8 +1281,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 3,
+          "homeScore": 31,
           "market": {}
         },
         {
@@ -1293,8 +1293,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 26,
           "market": {}
         },
         {
@@ -1305,8 +1305,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 28,
           "market": {}
         },
         {
@@ -1317,8 +1317,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 32,
+          "homeScore": 35,
           "market": {}
         },
         {
@@ -1329,8 +1329,8 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 7,
+          "homeScore": 17,
           "market": {}
         },
         {
@@ -1341,32 +1341,32 @@
           "league": "NCAA",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 21,
           "market": {}
         },
         {
           "id": "4bbb8aa2-e076-42fb-aedf-7cf6150a1ee2",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Houston",
+          "home": "Jacksonville",
           "pick": "Jacksonville",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 34,
+          "homeScore": 31,
           "market": {}
         },
         {
           "id": "b367228a-3592-4c3a-ade2-b597bb0f2c8c",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Tennessee",
+          "home": "Indianapolis",
           "pick": "Indianapolis",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -1377,104 +1377,104 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 25,
+          "homeScore": 14,
           "market": {}
         },
         {
           "id": "26735c4e-0df1-449c-bc55-8416d5b42a06",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Pittsburgh",
+          "home": "Tampa Bay",
           "pick": "Pittsburgh",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 26,
+          "homeScore": 19,
           "market": {}
         },
         {
           "id": "cba80b2d-d142-4489-8cbc-0926b8b137d8",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Baltimore",
+          "home": "Cleveland",
           "pick": "Baltimore",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 13,
           "market": {}
         },
         {
           "id": "9bab65aa-4c1a-4866-ac1c-0355254ca5c6",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "New Orleans",
+          "home": "NY Giants",
           "pick": "NY Giants",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 34,
+          "homeScore": 27,
           "market": {}
         },
         {
           "id": "35b0191e-4b22-45a2-8eee-9f2eb9391c55",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Chicago",
+          "home": "Atlanta",
           "pick": "Atlanta",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 31,
+          "homeScore": 23,
           "market": {}
         },
         {
           "id": "857c813a-a865-48ae-a324-0fe042ba957d",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "NY Jets",
+          "home": "New England",
           "pick": "New England",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 19,
+          "homeScore": 26,
           "market": {}
         },
         {
           "id": "541f043b-3d3f-40fe-92da-a5715b73f62e",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Arizona",
+          "home": "LA Rams",
           "pick": "LA Rams",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 18,
+          "homeScore": 16,
           "market": {}
         },
         {
           "id": "c8bd3374-05cc-40c4-b588-db2a5c7f7fd7",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "LA Chargers",
+          "home": "Kansas City",
           "pick": "Kansas City",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 6,
+          "homeScore": 22,
           "market": {}
         },
         {
           "id": "930dc008-1f50-458b-ba32-6e6c7767a96b",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Buffalo",
+          "home": "Las Vegas",
           "pick": "Buffalo",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 33,
+          "homeScore": 30,
           "market": {}
         },
         {
@@ -1485,20 +1485,20 @@
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 23,
           "market": {}
         },
         {
           "id": "ce114238-81bc-43a7-a281-a4ad10ffa748",
-          "away": "Opponent not recorded",
-          "home": "Opponent not recorded",
+          "away": "Washington",
+          "home": "San Francisco",
           "pick": "San Francisco",
           "league": "NFL",
           "date": "",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 23,
           "market": {}
         }
       ],
