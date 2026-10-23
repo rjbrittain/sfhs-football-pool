@@ -254,7 +254,7 @@
     },
     {
       "number": 2,
-      "locked": true,
+      "locked": false,
       "tiebreaker": 47,
       "games": [
         {
@@ -369,7 +369,7 @@
           "id": "4d1315f1-7fe7-4703-9519-d2aa2724b135",
           "away": "Green Bay",
           "home": "NY Jets",
-          "pick": "NY Jets",
+          "pick": "Green Bay",
           "league": "NFL",
           "date": "",
           "points": 1,
