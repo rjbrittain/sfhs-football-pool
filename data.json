@@ -1509,14 +1509,14 @@
     },
     {
       "number": 7,
-      "locked": true,
+      "locked": false,
       "tiebreaker": 44,
       "games": [
         {
           "id": "c9572105-dee9-449c-8565-9bcae0ccded5",
           "away": "Tennessee",
           "home": "South Carolina",
-          "pick": "Tennessee",
+          "pick": "South Carolina",
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
