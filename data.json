@@ -1258,7 +1258,7 @@
     },
     {
       "number": 6,
-      "locked": true,
+      "locked": false,
       "tiebreaker": null,
       "games": [
         {
@@ -1373,7 +1373,7 @@
           "id": "464a5cb3-ea0e-4491-b13b-5b7ff2b35f7f",
           "away": "Carolina",
           "home": "Philadelphia",
-          "pick": "Philadelphia",
+          "pick": "Carolina",
           "league": "NFL",
           "date": "",
           "points": 1,
