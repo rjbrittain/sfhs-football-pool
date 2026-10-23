@@ -3,7 +3,7 @@
   "weeks": [
     {
       "number": 1,
-      "locked": true,
+      "locked": false,
       "tiebreaker": 44,
       "games": [
         {
@@ -178,7 +178,7 @@
           "id": "03a2cbb9-c8d5-4897-a72d-ebc83170c6c1",
           "away": "Miami",
           "home": "Las Vegas",
-          "pick": "Miami",
+          "pick": "Las Vegas",
           "league": "NFL",
           "date": "",
           "points": 1,
