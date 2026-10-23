@@ -36,14 +36,20 @@
       "locked": true,
       "tiebreaker": null,
       "games": [],
-      "historical": null
+      "historical": {
+        "wins": 15,
+        "losses": 5
+      }
     },
     {
       "number": 5,
       "locked": true,
       "tiebreaker": null,
       "games": [],
-      "historical": null
+      "historical": {
+        "wins": 12,
+        "losses": 8
+      }
     },
     {
       "number": 6,
