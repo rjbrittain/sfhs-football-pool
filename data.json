@@ -1789,7 +1789,14 @@
           "points": 1,
           "awayScore": null,
           "homeScore": null,
-          "market": {}
+          "market": {
+            "open": -4.5,
+            "current": -3.5,
+            "homeMl": -170,
+            "awayMl": 142,
+            "total": 36.5,
+            "source": "Draftkings"
+          }
         },
         {
           "id": "f1adedab-dad6-4c3f-8935-943aa7355c89",
@@ -1801,7 +1808,14 @@
           "points": 1,
           "awayScore": null,
           "homeScore": null,
-          "market": {}
+          "market": {
+            "open": 6.5,
+            "current": 6.5,
+            "homeMl": 200,
+            "awayMl": -245,
+            "total": 51.5,
+            "source": "Draftkings"
+          }
         },
         {
           "id": "bd250f05-9637-4728-a2ba-bd9a9ac0e95f",
