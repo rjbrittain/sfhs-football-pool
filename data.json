@@ -1770,7 +1770,14 @@
           "points": 1,
           "awayScore": null,
           "homeScore": null,
-          "market": {}
+          "market": {
+            "open": -7.5,
+            "current": -3.5,
+            "homeMl": -166,
+            "awayMl": 140,
+            "total": 54.5,
+            "source": "Draftkings"
+          }
         },
         {
           "id": "0dc4958a-8539-41d8-af82-34a39ddbec90",
