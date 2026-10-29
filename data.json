@@ -1520,8 +1520,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 24,
+          "homeScore": 27,
           "market": {}
         },
         {
@@ -1532,8 +1532,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 34,
           "market": {}
         },
         {
@@ -1544,8 +1544,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 13,
+          "homeScore": 21,
           "market": {}
         },
         {
@@ -1556,8 +1556,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 28,
           "market": {}
         },
         {
@@ -1568,8 +1568,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 16,
           "market": {}
         },
         {
@@ -1580,8 +1580,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 49,
+          "homeScore": 39,
           "market": {}
         },
         {
@@ -1592,8 +1592,8 @@
           "league": "NCAA",
           "date": "2026-10-24",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 38,
+          "homeScore": 45,
           "market": {}
         },
         {
@@ -1604,8 +1604,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 16,
+          "homeScore": 10,
           "market": {}
         },
         {
@@ -1616,8 +1616,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 10,
+          "homeScore": 16,
           "market": {}
         },
         {
@@ -1628,8 +1628,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 28,
+          "homeScore": 25,
           "market": {}
         },
         {
@@ -1640,8 +1640,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 35,
+          "homeScore": 13,
           "market": {}
         },
         {
@@ -1652,8 +1652,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 24,
           "market": {}
         },
         {
@@ -1664,8 +1664,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 43,
+          "homeScore": 13,
           "market": {}
         },
         {
@@ -1676,8 +1676,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 20,
+          "homeScore": 29,
           "market": {}
         },
         {
@@ -1688,8 +1688,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 27,
+          "homeScore": 21,
           "market": {}
         },
         {
@@ -1700,8 +1700,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 30,
+          "homeScore": 16,
           "market": {}
         },
         {
@@ -1712,8 +1712,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 35,
+          "homeScore": 21,
           "market": {}
         },
         {
@@ -1724,8 +1724,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 17,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -1736,8 +1736,8 @@
           "league": "NFL",
           "date": "2026-10-25",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 3,
+          "homeScore": 20,
           "market": {}
         },
         {
@@ -1748,8 +1748,8 @@
           "league": "NFL",
           "date": "2026-10-26",
           "points": 1,
-          "awayScore": null,
-          "homeScore": null,
+          "awayScore": 38,
+          "homeScore": 21,
           "market": {}
         }
       ],
